@@ -5,7 +5,7 @@ from PIL import Image
 
 # Helper function to safely get a float input from the user.
 try:
-    from ossimg.proc import ( 
+    from OSFinalProjectLibrary.proc import ( 
         load_image, 
         adjust_brightness, 
         adjust_saturation, 
